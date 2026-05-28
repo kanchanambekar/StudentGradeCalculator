@@ -1,6 +1,6 @@
-package src.com.gradecalc.service;
+package com.gradecalc.service;
 
-import src.com.gradecalc.model.Student;
+import com.gradecalc.model.Student;
 
 import java.util.function.Function;
 import java.util.function.Predicate;

@@ -1,4 +1,4 @@
-package src.com.gradecalc.app;
+package com.gradecalc.app;
 
 import com.gradecalc.model.GradeResult;
 import com.gradecalc.model.Student;

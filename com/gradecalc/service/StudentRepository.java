@@ -1,4 +1,4 @@
-package src.com.gradecalc.service;
+package com.gradecalc.service;
 
 import com.gradecalc.model.Student;
 

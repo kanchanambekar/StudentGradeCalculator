@@ -1,4 +1,4 @@
-package src.com.gradecalc.utils;
+package com.gradecalc.utils;
 
 import com.gradecalc.model.Student;
 
