@@ -1,4 +1,4 @@
-package com.gradecalc.model;
+package src.com.gradecalc.model;
 
 import java.util.List;
 import java.util.Objects;

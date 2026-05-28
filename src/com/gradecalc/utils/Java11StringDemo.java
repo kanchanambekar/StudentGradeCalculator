@@ -1,4 +1,4 @@
-package com.gradecalc.utils;
+package src.com.gradecalc.utils;
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Java 11 — NEW STRING METHODS

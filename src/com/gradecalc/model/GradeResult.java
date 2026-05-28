@@ -1,4 +1,4 @@
-package com.gradecalc.model;
+package src.com.gradecalc.model;
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Java 17 — SEALED INTERFACE

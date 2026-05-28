@@ -1,9 +1,9 @@
-package com.gradecalc.utils;
+package src.com.gradecalc.utils;
 
-import com.gradecalc.model.GradeResult;
-import com.gradecalc.model.Student;
-import com.gradecalc.service.GradeCategoryService;
-import com.gradecalc.service.GradePredicates;
+import src.com.gradecalc.model.GradeResult;
+import src.com.gradecalc.model.Student;
+import src.com.gradecalc.service.GradeCategoryService;
+import src.com.gradecalc.service.GradePredicates;
 
 import java.util.List;
 import java.util.Map;

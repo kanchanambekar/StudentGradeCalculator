@@ -1,8 +1,8 @@
-package com.gradecalc.service;
+package src.com.gradecalc.service;
 
-import com.gradecalc.enums.GradeCategory;
-import com.gradecalc.model.GradeResult;
-import com.gradecalc.model.Student;
+import src.com.gradecalc.enums.GradeCategory;
+import src.com.gradecalc.model.GradeResult;
+import src.com.gradecalc.model.Student;
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Java 17 / 21 — PATTERN MATCHING (instanceof + switch)

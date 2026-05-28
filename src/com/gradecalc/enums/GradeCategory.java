@@ -1,4 +1,4 @@
-package com.gradecalc.enums;
+package src.com.gradecalc.enums;
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Java 17 — SEALED ABSTRACT CLASS
