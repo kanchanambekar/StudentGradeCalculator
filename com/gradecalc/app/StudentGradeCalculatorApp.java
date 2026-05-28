@@ -5,9 +5,9 @@ import com.gradecalc.model.Student;
 import com.gradecalc.service.GradeAnalysisService;
 import com.gradecalc.service.GradeCategoryService;
 import com.gradecalc.service.StudentRepository;
-import com.gradecalc.util.EnhancedNpeDemo;
-import com.gradecalc.util.Java11StringDemo;
-import com.gradecalc.util.ReportPrinter;
+import com.gradecalc.utils.EnhancedNpeDemo;
+import com.gradecalc.utils.Java11StringDemo;
+import com.gradecalc.utils.ReportPrinter;
 
 import java.util.List;
 
