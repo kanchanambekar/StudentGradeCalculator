@@ -76,7 +76,7 @@ public class StudentGradeCalculatorApp {
                 .forEach(System.out::println);
 
         // ── SECTION 7: Java 11 String methods ────────────────────────────────
-        Java11StringDemo.run();
+        //Java11StringDemo.run();
 
         // ── SECTION 8: Enhanced NullPointerException (Java 21) ───────────────
         EnhancedNpeDemo.run();
